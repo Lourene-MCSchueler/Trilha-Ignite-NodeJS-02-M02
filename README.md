@@ -1,3 +1,5 @@
+## Transações API
+
 # RF
 
 [ x ] - O usuário deve poder criar uma nova transação;  
@@ -7,10 +9,6 @@
 
 # RN
 
-[ ] - A transação poderá ser do tipo crédito ou débito;  
-[ ] - Deve ser possível identicarmos o usuário entre as requisições;  
-[ ] - O usuário só pode visualizar transações o qual ele criou;
-
-# RNF
-
-[ ] -
+[ x ] - A transação poderá ser do tipo crédito ou débito;  
+[ x ] - Deve ser possível identicarmos o usuário entre as requisições;  
+[ x ] - O usuário só pode visualizar transações o qual ele criou;
